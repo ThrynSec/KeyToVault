@@ -50,7 +50,9 @@ At least you have the launching time configuration. When I tested it, my DisktSt
 # 4. Questions and toubleshooting 
 
 - Why VB.Net ?
+
 Because this used to be a work project where I had to use VB.Net. I may redo this software in C# later, who knows ?
 
 - I can't connect to SSH / Visual Studio can get Renci.SSHNet
+
 Please install SSHNet Nugget package, it should solve this problem
