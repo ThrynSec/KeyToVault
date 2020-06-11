@@ -1,5 +1,7 @@
 ![KeyToVault Logo](https://thryn.fr/images/KeyToVault.png)
 
+https://twitter.com/ThrynSec
+
 ------------------------------------------
 
 **1. What is KeyToVault**
