@@ -67,7 +67,7 @@ Partial Class Main
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Calibri", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(50, 19)
+        Me.Label2.Location = New System.Drawing.Point(45, 19)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(227, 26)
         Me.Label2.TabIndex = 3
@@ -113,7 +113,7 @@ Partial Class Main
         Me.Controls.Add(Me.timerCountdown)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Main"
-        Me.Text = "Clé du coffre"
+        Me.Text = "KeyToVault"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
