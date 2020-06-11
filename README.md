@@ -1,13 +1,11 @@
-# KeyToVault
-
 ![KeyToVault Logo](https://thryn.fr/images/KeyToVault.png)
 
 ------------------------------------------
 
-# 1. What is KeyToVault
-# 2. Creating an encrypted folder to work on
-# 3. KeyToVault configuration
-# 4. Questions and troubleshooting
+**1. What is KeyToVault**
+**2. Creating an encrypted folder to work on**
+**3. KeyToVault configuration**
+**4. Questions and troubleshooting**
 
 ------------------------------------------
 
