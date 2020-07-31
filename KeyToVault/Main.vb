@@ -88,7 +88,7 @@ Public Class Main
     Private Sub TimeIsTicking()
 
         'Put the form in front of every other process at 30 minutes, 15 minutes and 5 minutes so the user can extend time if necessary
-
+        On Error GoTo 0
         If minutes = 30 And hours = 0 And seconds = 0 And ms = 0 Then
             Me.WindowState = WindowState.Normal
         ElseIf minutes = 15 And hours = 0 And seconds = 0 And ms = 0 Then
@@ -96,6 +96,7 @@ Public Class Main
         ElseIf minutes = 5 And hours = 0 And seconds = 0 And ms = 0 Then
             Me.WindowState = WindowState.Normal
         End If
+        On Error Resume Next
 
     End Sub
 
